@@ -1,13 +1,16 @@
+/* Universal Selectors for the entire project */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Background color for the entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styling entire Nav bar with Search Engine Optimization, Online Reputation Marketing, and Social Media Marketing */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,28 +18,34 @@ body {
     color: #ffffff;
 }
 
+/* Display and font size to Horiseon header at the top left of the screen */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Give the letters "seo" in Horiseon a different font color */
 .seo {
     color: #d9dcd6;
 }
 
+/* Designating font size for Search Engine Optimization, Online Reputation Marketing, and Social Media Marketing */
 h2 {
     font-size: 36px;
 }
 
+/* Alignment and margins for Lead Generation, Brand Awareness, and Cost Management headers */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Font size for "Made with 'heart symbol' by Horiseon" */
 h4 {
     font-size: 20px;
 }
 
+/* Styling aspects for all "sections" of the project */
 section {
     padding-top: 15px;
     float: right;
@@ -44,20 +53,24 @@ section {
     font-size: 20px;
 }
 
+/* Inline display for the navigation bar */
 ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* text color and no decoration for the links in the nav bar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Font size for the paragraphs */
 p {
     font-size: 16px;
 }
 
+/* styling for the large background image of the marketing meeting */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,24 +80,28 @@ p {
     background-position: center;
 }
 
+/* orient Search Engine Optimization and Social Media Marketing to the left */
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
+/* Orient Online Reputation Management to the right */
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
+/* Styling for entire Div class containing Search Engine Optimization, Online Reputation Marketing, and Social Media Marketing */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styling for the Search Image Optimization area */ 
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,6 +111,7 @@ p {
     color: #ffffff;
 }
 
+/* Styling for the Online Reputation Management area */
 #online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,6 +121,7 @@ p {
     color: #ffffff;
 }
 
+/* Styling for the Social Media Marketing area */
 #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -112,6 +131,7 @@ p {
     color: #ffffff;
 }
 
+/* Styling for the entire Div class containing Lead Generation, Brand Awareness, and Cost Management headers */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -123,39 +143,46 @@ p {
     background-color: #2589bd;
 }
 
+/* Styling for the Lead Generation section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styling for the Lead Generation Img */
 .lead-generation {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Styling for the Brand Awareness section */ 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styling for the Brand Awareness Img */
 .brand-awareness {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Styling for the Cost Management section */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styling for the Cost Management Img */
 .cost-management {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Styling for "Made with 'heart symbol' by Horiseon" */
 footer {
     padding: 30px;
     clear: both;
