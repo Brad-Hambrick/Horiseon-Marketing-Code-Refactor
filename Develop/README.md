@@ -7,8 +7,8 @@ This project was to assist Horiseon Social Solutions with creating a structured 
 All of the images in this project were provided by Horiseon Social Solutions and they had already obtained required licensing.
 
 ## Visuals
-![Website Images](Develop/assets/images/topscreen.png)
-![Website Images](Develop/assets/images/middlescreen.png)
+![Website Images](./assets/images/topscreen.png)
+![Website Images](./assets/images/middlescreen.png)
 
 ## Usage
 This project will be used in order to showcase services that are offered by Horiseon Social Solutions in order to maximize a company's marketing presence.
