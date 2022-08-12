@@ -1,5 +1,8 @@
 # Horiseon-Marketing-Code-Refactor
 
+## Deployed Application
+https://brad-hambrick.github.io/Horiseon-Marketing-Code-Refactor/
+
 ## Description
 This project was to assist Horiseon Social Solutions with creating a structured HTML codebase that provides accessibility in order for code readers to assist those who may disabilities that hinder them from reading the webpage.  In this project, a clear concise title was added and the HTML codebase was refactored in order to follow semantic HTML standards.  The CSS properties were also consolidated in order to have a cleaner, more efficient styling page.  
 
@@ -7,8 +10,8 @@ This project was to assist Horiseon Social Solutions with creating a structured 
 All of the images in this project were provided by Horiseon Social Solutions and they had already obtained required licensing.
 
 ## Visuals
-![Website Images](./assets/images/topscreen.png)
-![Website Images](./assets/images/middlescreen.png)
+![Website Images](./Develop/assets/images/topscreen.png)
+![Website Images](./Develop/assets/images/middlescreen.png)
 
 ## Usage
 This project will be used in order to showcase services that are offered by Horiseon Social Solutions in order to maximize a company's marketing presence.
